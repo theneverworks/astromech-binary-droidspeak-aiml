@@ -18,6 +18,14 @@ https://pypi.org/project/sounddevice/
 Built in.
 https://docs.python.org/3/library/winsound.html
 
+## Install Deepspeech 0.9.3
+https://pypi.org/project/deepspeech/
+
+## Download Deepspeech Model Files 0.9.3
+https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.pbmm
+
+https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.scorer
+
 # Edits
 ## droid_speech.py
 
