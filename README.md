@@ -3,8 +3,8 @@ Entirely offline Windows based keyword spotting and binary 'droid speak' beep la
 
 A new OFFLINE version of https://github.com/theneverworks/astromech-binary-droidspeak-ibm-watson.
 
-# WORK IN PROGRESS
-I have a lot of clean up. This is not perfect. I want to add a better mechanism for managing droid profiles without code edits. Maybe command line switches for known droids.
+# Archived
+See https://github.com/theneverworks/astromech-binary-droidspeak
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/cbyKz-TZIbQ/0.jpg)](http://www.youtube.com/watch?v=cbyKz-TZIbQ "R4 Droid Speak Speech Recognition Demo 3")
 
